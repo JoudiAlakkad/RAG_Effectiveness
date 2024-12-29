@@ -1,6 +1,6 @@
 # RAG_Effectiveness
 
-To analyse the effectiveness of RAG, we started with implementing a RAG pipeline. Since Ollama offers access to multiple LLMs models and offeres also embedding function, it was more effecient to use it for local model hosting especially that we wanted to test effeciency of RAG with different models. We used embedding function, model ("nomic-embed-text"). Two LLMs were used: "Llama3" and "".
+To analyse the effectiveness of RAG, we started with implementing a RAG pipeline. Since Ollama offers access to multiple LLMs models and offeres also embedding function, it was more effecient to use it for local model hosting especially that we wanted to test effeciency of RAG with different models. We used embedding function, model ("nomic-embed-text"). Two LLMs were used: "Llama3" and "Qwen 1.5".
 
 ### Steps:
 1. Create a local DB.
