@@ -4,11 +4,9 @@ To analyse the effectiveness of RAG, we started with implementing a RAG pipeline
 
 ### Steps:
 1. Create a local DB.
-2. Choose a path and load documents (pdf).
-3. Documents were splitted into chunks
-4. Using embedding function from ollama, embedd the chunks and add them to our DB.
-5. Set LLM, using model specified through Ollama.
-6. Either query with context, or without context.
+2. Choose a path and load context of dataset.
+3. Using embedding function from ollama, embedd the chunks and add them to our DB.
+4. Set LLM, using model specified through Ollama.
+5. Either query with context, or without context.
 
-### Next steps include:
-* compare answers with specified metrics.
+
