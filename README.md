@@ -375,9 +375,7 @@ The project provides practical experience with:
 This project was presented on **February 6, 2025** as part of
 **Programming for Modern Machine Learning**.
 
-**Authors**
+**Author**
 
 -   Joudi Alakkad
--   Miaoxuan Liang
--   Sidra Saied Ali
 
